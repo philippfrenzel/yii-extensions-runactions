@@ -1,6 +1,6 @@
 <?php
 
-Yii::import('ext.runactions.components.ERunActions');
+Yii::import('ext.runactions.runactions.components.ERunActions');
 
 /**
  * RunActionsController.php
